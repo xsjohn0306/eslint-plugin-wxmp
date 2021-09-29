@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-wxmp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "微信小程序eslint插件",
   "keywords": [
     "eslint",
